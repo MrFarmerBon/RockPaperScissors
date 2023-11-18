@@ -3,14 +3,6 @@ from colorama import Fore, Style
 game = "yes"
 options = [ "rock","paper","scissors"]
 
-
-
-
-
-
-
-
-
 def win ():
     print(Fore.GREEN + "Well Done You win!")
 #what happens when you lose
